@@ -57,5 +57,5 @@ Given the current test set is small (16 images), this accuracy figure should be 
 * Build a simple web demo (Flask or Streamlit) for interactive predictions
 
 ## Author
-Nandika Garg
-Reg No: 2427030369
+Pranav bhatia
+Reg No: 2428020099
